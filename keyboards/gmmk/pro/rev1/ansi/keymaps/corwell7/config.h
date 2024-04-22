@@ -32,3 +32,5 @@
 #define VIAL_KEYBOARD_UID {0xBE, 0x20, 0xAD, 0xD0, 0x14, 0x9F, 0x21, 0x68}
 #define VIAL_UNLOCK_COMBO_ROWS { 1, 10 }
 #define VIAL_UNLOCK_COMBO_COLS { 3, 4 }
+
+#define DEBOUNCE 16
