@@ -19,7 +19,6 @@
 
 #define DRIVER_1_LED_TOTAL 66
 #define DRIVER_2_LED_TOTAL 32
-#define RGB_MATRIX_LED_COUNT (DRIVER_1_LED_TOTAL + DRIVER_2_LED_TOTAL)
 
 //enable RGB Matrix Effects for Vial
 #define RGB_MATRIX_FRAMEBUFFER_EFFECTS
@@ -33,4 +32,4 @@
 #define VIAL_UNLOCK_COMBO_ROWS { 1, 10 }
 #define VIAL_UNLOCK_COMBO_COLS { 3, 4 }
 
-#define DEBOUNCE 16
+#define DEBOUNCE 18
